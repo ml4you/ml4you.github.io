@@ -3,7 +3,7 @@ title: 'How to use PubChem database for machine learning in drug discovery'
 date: 2022-09-07
 permalink: /blog/post-1
 excerpt_separator: <!--more-->
-toc: false
+toc: true
 tags:
   - machine learning
   - cheminformatics
