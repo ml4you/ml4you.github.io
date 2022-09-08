@@ -10,12 +10,14 @@ tags:
   - career
 ---
 
-**What is PubChem database**  
+# What is PubChem database
 PubChem is an American database of chemical molecules managed by the National Center for Biotechnology Information (NCBI), branch of the National Library of Medicine of the United States under the authority of the National Institutes of Health (NIH).
 PubChem lists several million compounds by putting a large amount of data of various kinds online for each substance free of charge: chemical, biochemical, pharmacological, production, toxicological, environmental, etc.  
-**What is PubChemPy**  
+
+## What is PubChemPy
 PubChemPy offers a way to use and interact with PubChem database directly with Python. It allows chemical searches by name, substructure and similarity, chemical standardization, conversion between chemical file formats, depiction and retrieval of chemical properties.
-**Installing PubChemPy**  
+
+## Installing PubChemPy  
 The easiest and recommended way to install is using pip by simply running the code below:
 
 ```
@@ -63,7 +65,7 @@ Output:
  
 
 
-**Remove duplicate compounds**
+## Remove duplicate compounds
 
 When dealing with a large dataset of compounds, it is very likely to find a great deal of duplicates with different reported activities due to different conditions of each laboratory. However, it is possible to deal with this issue by averaging all reported activity by calculating their mean values using the code below:
 
@@ -90,7 +92,7 @@ Output:
 
 ![Figure5](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-5.png)
  
-**Data classification**
+## Data classification
 
 Once we have curated our data, now it is possible to classify compounds in order to apply it for machine learning classification models. For this reason, we need to define an activity cutoff to define our active and inactive compounds. In the case of enzyme inhibition, the literature indicates that most potent enzyme inhibitors have activities in the nanomolar range. For this reason, we can proceed by setting a threshold of 1000 nM corresponding to 1 μM or lower for defining our active compounds. 
 
@@ -106,7 +108,7 @@ We do the same for inactive compounds by setting a cutoff of 10 000 nM (10 μM) 
 inactive=x.loc[x['mean_value']>10000]
 ```
 
-**Data labelling**
+## Data labelling
 
 Now that we have defined our active and inactive compounds, it is necessary to label the data in order to combine the entire dataset. We will simply refer to active compounds as “1” and inactive compounds as “0”.
 Run the code below:
@@ -139,7 +141,7 @@ combined.to_csv("ache_labelled.csv", index=None)
 ```
 
 
-**Conclusion**
+## Conclusion
 
 This article’s aim was to demonstrate an alternative way to retrieve bioactivity data from ChEMBL without using code as opposed to the previous article. Furthermore, data curation and data classification was covered in detail as it is a necessary step and can highly impact the performance of machine learning models. If you found this article useful, follow the blog for more tutorials in the future.
 
