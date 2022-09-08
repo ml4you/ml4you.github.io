@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-1
 date: 2022-02-15
 journal: 'Journal of Biomolecular Structure and Dynamics'
-paperurl: 'https://github.com/yboulaamane/yboulaamane.github.io/blob/master/files/paper-1.pdf'
+paperurl: 'https://github.com/yboulaamane/yboulaamane.github.io/blob/af06823e566981801aded5ac446478bd7702727c/files/paper-1.pdf'
 link: 'https://doi.org/10.1080/07391102.2022.2033643'
 citation: 'Boulaamane, Y., Ahmad, I., Patel, H., Das, N., Britel, M. R., & Maurady, A. (2022). Structural exploration of selected C6 and C7-substituted coumarin isomers as selective MAO-B inhibitors. Journal of Biomolecular Structure and Dynamics, 1-15.'
 ---
