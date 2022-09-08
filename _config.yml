@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  blog:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -192,10 +192,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _blog
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: single
       author_profile: true
