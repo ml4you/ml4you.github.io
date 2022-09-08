@@ -8,23 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome to my personal academic website! I am a Ph.D. Student in Chemiformatics at the laboratory of Innovative Technologies (LTI) at the [National School of Applied Sciences](http://ensat.ac.ma/Portail/), [Abdelmalek Essaadi University](http://www.uae.ma/website/), Tetouan, Morocco. My Ph.D projetcs revolves on the in silico drug discovery of natural products as lead candidates for the management of neurodegenerative diseases, in particular, Parkinson's disease. The main steps in the early stages of a drug discovery development project consists of:
+   * Target identification and selection: I mainly work on multi-target-directed drugs which consists on finding drugs with potential simultaneous activity against multiple targets involved in a particular pathway, e.g: oxidative stress, and neuroinflammation.
+   * High-throuput virtual screening:
+        * Ligand-based virtual screening (similarity search, pharmacophore modeling, quantitative structure activity relationship, machine learning and convolutional neural networks)
+        * Structure-based virtual screening (molecular docking, conformational sampling, binding affinities, protein-ligand interactions)
+   * Molecular dynamics simulations (RMSD, RMSF, radius of gyration, solvent accessible surface, hydrogen bonds, per-residue energy decomposition, umbrella sampling, free energy perturbations)
+  
+**Programming language:** Python, Bash, LaTex  
+**Libraries:** Pandas, Numpy, RDkit, Scikit-Learn, Matplotlib, Seaborn, Keras, Tensorflow, Pytorch, etc...  
+**Molecular docking:** AutoDock4, AutoDock Vina, Glide   
+**Molecular dynamics simulations:** Gromacs, Amber, Desmond  
+**Free energy calculations:** gmx_mmpbsa, g_mmpbsa, prime_mmgbsa  
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
