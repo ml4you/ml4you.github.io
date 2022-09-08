@@ -25,13 +25,15 @@ The easiest and recommended way to install is using pip by simply running the co
 
 The first step is to search the ChEMBL database using keywords of a target protein of interest, it is possible to run a search using other keywords related to diseases, compounds or assays. In this tutorial, we are going to search for Acetylcholinesterase as illustrated in figure 2.
 
- 
+![Figure1](https://github.com/yboulaamane/yboulaamane.github.io/blob/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-1.png)
 Figure 1: ChEMBL search result example
 
 Notice that our search resulted on 24 targets, it is important to choose the right protein for the right organism of the study of interest. For this example, we are interested in human Acetylcholinesterase corresponding to the ID: CHEMBL220. 
 After clicking on the target, we will be sent to another page containing all the data concerning the selected target such as: name and classification, drugs and clinical candidates, activity charts, etc. 
 Scroll down to activity charts and notice the pie chart on the left concerning all the associated bioactivity data compiled from the literature and their distribution according to the activity type.  
  
+ 
+![Figure1](https://github.com/yboulaamane/yboulaamane.github.io/blob/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-2.png)
 Figure 2: Activity charts and distribution of activity types of the selected target, CHEMBL220
 
 Upon observation of the activity chart, we can quickly determine which activity type is the most reported in the literature, in this case it refers to half-maximal inhibitory concentrations (IC50) which have been reported 8205 times. 
@@ -56,6 +58,8 @@ x
 
 Output:
 
+![Figure3](https://github.com/yboulaamane/yboulaamane.github.io/blob/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-3.png)
+
  
 
 
@@ -73,6 +77,7 @@ x=x.drop_duplicates("Molecule ChEMBL ID", keep="first")
 
 Output:
 
+![Figure4](https://github.com/yboulaamane/yboulaamane.github.io/blob/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-4.png)
  
 It is possible to find some compounds on the dataset with no available activity, notice on the sheet above that some activities are marked with “NaN” which stands for “Not a Number” in computer science, it is therefore necessary to remove them before proceeding. We can simply run the code below:
 
@@ -81,12 +86,9 @@ x=x.dropna()
 x
 ```
 
-
-
-
-
 Output:
 
+![Figure5](https://github.com/yboulaamane/yboulaamane.github.io/blob/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-5.png)
  
 **Data classification**
 
@@ -127,6 +129,7 @@ combined
 
 Output:
  
+![Figure6](https://github.com/yboulaamane/yboulaamane.github.io/blob/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-6.png)
 
 Finally, we can save our dataset for further use.
 Run the code below:
