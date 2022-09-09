@@ -4,7 +4,6 @@ date: 2022-09-07
 permalink: /blog/post-1
 excerpt_separator: <!--more-->
 toc: true
-collection: blog
 tags:
   - machine learning
   - cheminformatics
