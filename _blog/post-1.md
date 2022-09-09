@@ -10,10 +10,9 @@ tags:
   - career
 ---
 
-# What is PubChem database
 PubChem is an American database of chemical molecules managed by the National Center for Biotechnology Information (NCBI), branch of the National Library of Medicine of the United States under the authority of the National Institutes of Health (NIH).
-PubChem lists several million compounds by putting a large amount of data of various kinds online for each substance free of charge: chemical, biochemical, pharmacological, production, toxicological, environmental, etc.
 <!--more-->
+PubChem lists several million compounds by putting a large amount of data of various kinds online for each substance free of charge: chemical, biochemical, pharmacological, production, toxicological, environmental, etc.
 
 ## What is PubChemPy
 PubChemPy offers a way to use and interact with PubChem database directly with Python. It allows chemical searches by name, substructure and similarity, chemical standardization, conversion between chemical file formats, depiction and retrieval of chemical properties.
