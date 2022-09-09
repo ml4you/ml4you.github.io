@@ -182,6 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  certifications:
+    output: true
+    permalink: /:collection/:path/
   blog:
     output: true
     permalink: /:collection/:path/
