@@ -1,11 +1,9 @@
 ---
-collection: certifications
 permalink: /certifications/certifications
 ---
 
-|  |  |
-| ------------- | ------------- |
 | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_01.png" width="500">  | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_02.png" width="500">  |
+| ------------- | ------------- |
 | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_03.png" width="500">  | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_04.png" width="500">  |
 | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_09.png" width="500">  | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_06.png" width="500">  |
 | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_07.png" width="500">  | <img src="https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_08.png" width="500">  |
