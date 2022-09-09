@@ -1,6 +1,7 @@
 ---
 collection: certifications
 permalink: /certifications/certifications
+---
 ![cert1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_01.png)
 ![cert2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_02.png)
 ![cert3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_certifications/cert_03.png)
