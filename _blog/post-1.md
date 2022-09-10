@@ -1,5 +1,5 @@
 ---
-title: 'How to use PubChem database for machine learning in drug discovery'
+title: 'How to perform data curation and classify bioactivity data on ChEMBL database'
 date: 2022-09-07
 permalink: /blog/post-1
 excerpt_separator: <!--more-->
@@ -10,22 +10,11 @@ tags:
   - career
 ---
 
-PubChem is an American database of chemical molecules managed by the National Center for Biotechnology Information (NCBI), branch of the National Library of Medicine of the United States under the authority of the National Institutes of Health (NIH).
-<!--more-->
-PubChem lists several million compounds by putting a large amount of data of various kinds online for each substance free of charge: chemical, biochemical, pharmacological, production, toxicological, environmental, etc.
+## ChEMBL database
 
-## PubChemPy
-PubChemPy offers a way to use and interact with PubChem database directly with Python. It allows chemical searches by name, substructure and similarity, chemical standardization, conversion between chemical file formats, depiction and retrieval of chemical properties.
+ChEMBL database is the largest database, to date, containing curated bioactivity data of more than 2.2 million compounds. It is compiled from more than 84,000 documents, 1.5 million assays and the data spans 14,000 targets, 2,000 cells and 43,000 indications as of February, 2022; ChEMBL version 30.
 
-## Installing PubChemPy  
-The easiest and recommended way to install is using pip by simply running the code below:
-
-```
-!pip install pubchempy
-```
-
-
-The first step is to search the ChEMBL database using keywords of a target protein of interest, it is possible to run a search using other keywords related to diseases, compounds or assays. In this tutorial, we are going to search for Acetylcholinesterase as illustrated in Figure 1.
+The first step to use this database is to search the ChEMBL database using keywords of a target protein of interest, it is possible to run a search using other keywords related to diseases, compounds or assays. In this tutorial, we are going to search for Acetylcholinesterase as illustrated in Figure 1.
 
 | ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-1.png) |
 |:--:|
@@ -38,6 +27,7 @@ Scroll down to activity charts and notice the pie chart on the left concerning a
  
  
 | ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-2.png) |
+|:--:|
 | <b>Figure 2: Activity charts and distribution of activity types of the selected target, CHEMBL220</b> |
 
 Upon observation of the activity chart, we can quickly determine which activity type is the most reported in the literature, in this case it refers to half-maximal inhibitory concentrations (IC50) which have been reported 8205 times. 
@@ -64,6 +54,7 @@ x
 **Output**
 
 | ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-3.png) |
+|:--:|
 | <b>Figure 3: AChE curated dataset output.</b> |
  
 
@@ -83,6 +74,7 @@ x=x.drop_duplicates("Molecule ChEMBL ID", keep="first")
 **Output:**
 
 | ![Figure4](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-4.png) |
+|:--:|
 | <b>Figure 4: Pandas output of AChE dataset after removing duplicate compounds.</b> |
  
  
@@ -96,6 +88,7 @@ x
 Output:
 
 | ![Figure5](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-5.png) |
+|:--:|
 | <b>Figure 5: Final curated dataset.</b> |
 
 ## Data classification
@@ -138,6 +131,7 @@ combined
 Output:
  
 | ![Figure6](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-6.png) |
+|:--:|
 | <b>Figure 6: Curated dataset with label column indicating whether the compound is active or inactive.</b> |
 
 Finally, we can save our dataset for further use.
