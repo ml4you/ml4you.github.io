@@ -10,8 +10,6 @@ tags:
   - career
 ---
 
-## ChEMBL database
-
 ChEMBL database is the largest database, to date, containing curated bioactivity data of more than 2.2 million compounds. It is compiled from more than 84,000 documents, 1.5 million assays and the data spans 14,000 targets, 2,000 cells and 43,000 indications as of February, 2022; ChEMBL version 30.
 <!--more-->
 The first step to use this database is to search the ChEMBL database using keywords of a target protein of interest, it is possible to run a search using other keywords related to diseases, compounds or assays. In this tutorial, we are going to search for Acetylcholinesterase as illustrated in Figure 1.
