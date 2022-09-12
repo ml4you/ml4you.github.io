@@ -19,8 +19,10 @@ ChEMBL is a manually curated database of bioactive molecules with drug-like prop
 Bioactivity data is reported in Ki, Kd, IC50, % of inhibition and EC50. Data can be filtered and analyzed to develop compound screening libraries for lead identification during the drug discovery process. 
 The availability of curated bioactivity data on small drug-like molecules opens new opportunities for data-driven drug discovery and makes it possible to apply machine learning methodologies to pharmaceutical research field.
 
- 
-Figure 1: Web interface of ChEMBL database (https://www.ebi.ac.uk/chembl/)
+| ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/2post-1.png ) |
+|:--:|
+| <b>Figure 1: Web interface of ChEMBL database (https://www.ebi.ac.uk/chembl/)</b> |
+
 
 ## 2. BindingDB 
 BindingDB is a public database of experimental binding affinities of interactions between macromolecules and small molecules. It contains more than 1.2 million binding data points for more than 6,400 protein targets and around 550,000 small molecules. Furthermore, affinities for protein-protein, protein-peptide as well as host-guest interactions are provided. 
@@ -33,8 +35,9 @@ Find My Compound’s Target is a tool integrated in BindingDB that aims to predi
 ### 2.2.	Find Compounds for My Target
 Find Compounds for My Target is another tool that tries to find compounds for a specific target. It features advanced search and extraction of curated information from various data sources such as ChEMBL database, PubChem bioassays, D3R, etc. 
 
-  
-Figure 2: Web interface of BindingDB (https://www.bindingdb.org/)
+| ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/2post-2.png ) |
+|:--:|
+| <b>Figure 2: Web interface of BindingDB (https://www.bindingdb.org/)</b> |
 
 
 ## 3.	Pubchem Bioassays Database
@@ -46,13 +49,18 @@ leads to information about bioassay results or substance descriptions. Variation
 ### 3.1.	PubChemPy
 PubChemPy offers a way to use and interact with PubChem database directly with Python. It allows chemical searches by name, substructure and similarity, chemical standardization, conversion between chemical file formats, depiction and retrieval of chemical properties. For more information on installing and using PubChemPy package visit the official website (https://pubchempy.readthedocs.io/en/latest/index.html).
 
- 
-Figure 3: PubChem web interface (https://pubchem.ncbi.nlm.nih.gov/)
+
+| ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/2post-3.png ) |
+|:--:|
+| <b>Figure 3: PubChem web interface (https://pubchem.ncbi.nlm.nih.gov/)</b> |
+
 ## 4.	PDBbind Database
 The PDBbind database is a comprehensive collection of experimentally measured binding affinity data (Kd, Ki, and IC50) for the protein-ligand complexes deposited in the Protein Data Bank (PDB). It thus provides a link between energetic and structural information of protein-ligand complexes, which is of great value to various studies on molecular recognition occurred in biological systems.
 The basic information of each complex in PDBbind is totally open for browsing. Users are however required to register for access under a license agreement in order to utilize the full functions provided on this web site or to download the contents of PDBbind. The registration is free of charge to all academic and industrial users.
  
-Figure 4: PDBbind web interface (http://www.pdbbind.org.cn/index.php) 
+| ![Figure4](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/2post-4.png ) |
+|:--:|
+| <b>Figure 4: PDBbind web interface (http://www.pdbbind.org.cn/index.php)</b> |
 
 
 
@@ -61,7 +69,9 @@ Figure 4: PDBbind web interface (http://www.pdbbind.org.cn/index.php)
 BRENDA is an enzyme database. It is maintained and developed by the Institute of Biochemistry of the University of Cologne. Data on enzyme functions are taken directly from the primary literature. The database covers 40 entries, with information about enzyme nomenclature, reactions, specificity, structure, method of isolation or preparation, references in scientific literature and cross-references for the sequence or 3D structure.
 The database is accessible free of charge for academic and non-profit uses, commercial uses need to acquire a license. To use the database, it is necessary to register by email. The database can be searched by EC nomenclature, enzyme name, organism or an advanced search combining these entries.
  
-Figure 5: Brenda Enzymes Database web interface (https://www.brenda-enzymes.org/)
+| ![Figure5](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/2post-5.png ) |
+|:--:|
+| <b>Figure 5: Brenda Enzymes Database web interface (https://www.brenda-enzymes.org/)</b> |
 
 ## Conclusion
 This article has sought to provide an overview of freely available chemical databases that can be readily used for machine learning approaches that support the major research trends in drug discovery. The ever-increasing amount of data and the improvement of analytical tools hold the potential to transform the drug development, leading to new treatments, improved patient outcomes, and lower costs.
