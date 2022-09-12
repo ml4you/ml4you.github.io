@@ -61,3 +61,5 @@ author_profile: true
 [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/)  
 [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/)  
 [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library)   
+[BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural)   
+[IMPPAT](https://cb.imsc.res.in/imppat/home)   
