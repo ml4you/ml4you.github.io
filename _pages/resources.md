@@ -43,3 +43,21 @@ author_profile: true
 [www.scienceaccelator.gov](www.scienceaccelator.gov)  
 [http://oaister.worldcat.org/](http://oaister.worldcat.org/)   
 [http://worldwidescience.org/](http://worldwidescience.org/)  
+
+
+## Natural Products Databases for drug discovery:
+
+[COCONUT Natural Products](https://coconut.naturalproducts.net/)  
+[LOTUS Natural Products](https://lotus.naturalproducts.net/)  
+[ZINC database](https://zinc20.docking.org/substances/subsets/biogenic/)  
+[Collective Molecular Activities of Useful Plants](http://bidd.group/CMAUP/)  
+[Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php)  
+[Cannabis Database](https://cannabisdatabase.ca/)  
+[FooDB](https://foodb.ca/)  
+[AfroDB](http://african-compounds.org/about/afrodb/)  
+[Comprehensive Marine Natural Products Database](https://www.cmnpd.org/)  
+[SistematX secondary metabolites database](https://sistematx.ufpb.br/)  
+[Eximed Natural-Product-Based Library](https://eximedlab.com/Screening-Compounds.html)  
+[CoumarinDB](https://yboulaamane.github.io/CoumarinDB/)  
+[ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/)  
+[OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library)   
