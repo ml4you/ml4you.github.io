@@ -6,7 +6,6 @@ date: 2022-09-19
 journal: 'Journal of Integrative Bioinformatics'
 paperurl: '/files/paper-2.pdf'
 link: 'https://doi.org/10.1515/jib-2021-0027'
-citation: 'https://www.degruyter.com/document/doi/10.1515/jib-2021-0027/html'
 ---
 
 **Abstract**  
