@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-## Thesis and dissertations databases:
+## Theses and dissertations databases:
 
 [http://www.theses.fr/](http://www.theses.fr/)   
 [https://www.erudit.org/fr/](https://www.erudit.org/fr/)  
