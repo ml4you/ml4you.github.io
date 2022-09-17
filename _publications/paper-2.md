@@ -1,5 +1,5 @@
 ---
-title: "_In silico_ studies of natural product-like caffeine derivatives as potential MAO-B inhibitors/AA <sub>2A</sub> R antagonists for the treatment of Parkinson's disease"
+title: "_In silico_ studies of natural product-like caffeine derivatives as potential MAO-B inhibitors/AA<sub>2A</sub>R antagonists for the treatment of Parkinson's disease"
 collection: publications
 permalink: /publication/paper-2
 date: 2022-09-19
