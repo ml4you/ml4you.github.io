@@ -31,10 +31,13 @@ The current abundance of digital resources should lead you to be particularly vi
 ## Step 2: Defining the keywords
 An effective bibliographic search for the realization of a state of the art necessarily passes by the definition of key words to be inserted in the bibliographic search engines, according to your subject. You will certainly already have names of authors, but you will also necessarily have to do thematic research to flush out more sources.
 It is advisable to start from general keywords and gradually refine the theme. This can take time and it is recommended to write down your ideas and all your keywords. To get an overview of this research, you can organize the key words and main ideas on paper, in the form of lists, tables or tree diagrams, with colors or any other visual means that suits you.
-Don't overlook the valuable help that other people can give you. Discussion with fellow seminarians, more advanced students can be very helpful. The professors and in particular your dissertation or thesis director are there to guide you. In addition, university libraries generally have a support service to help students and researchers at all stages of bibliographic research.
 | ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-2.png ) |
 |:--:|
 | <b>Figure 2:The term "keyword" refer to the words and phrases that people enter into a search engine to find information that they're looking for.</b> |
+Don't overlook the valuable help that other people can give you. Discussion with fellow seminarians, more advanced students can be very helpful. The professors and in particular your dissertation or thesis director are there to guide you. In addition, university libraries generally have a support service to help students and researchers at all stages of bibliographic research.
+| ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-3.png ) |
+|:--:|
+| <b>Figure 3: Popular reference management tools.</b> |
 ## Step 3: Reading and writing an effective synthesis
 Achieving the state of the art also requires a critical and synthetic reading of your corpus.
 ### Critical reading
