@@ -34,10 +34,12 @@ It is advisable to start from general keywords and gradually refine the theme. T
 | ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-2.png ) |
 |:--:|
 | <b>Figure 2:The term "keyword" refer to the words and phrases that people enter into a search engine to find information that they're looking for.</b> |
+
 Don't overlook the valuable help that other people can give you. Discussion with fellow seminarians, more advanced students can be very helpful. The professors and in particular your dissertation or thesis director are there to guide you. In addition, university libraries generally have a support service to help students and researchers at all stages of bibliographic research.
 | ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-3.png ) |
 |:--:|
 | <b>Figure 3: Popular reference management tools.</b> |
+
 ## Step 3: Reading and writing an effective synthesis
 Achieving the state of the art also requires a critical and synthetic reading of your corpus.
 ### Critical reading
