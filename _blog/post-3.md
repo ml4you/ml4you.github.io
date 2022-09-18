@@ -1,6 +1,6 @@
 ---
 title: 'How to write a good state of the art'
-date: 2022-09-12
+date: 2022-09-18
 permalink: /blog/post-2
 excerpt_separator: <!--more-->
 toc: true
