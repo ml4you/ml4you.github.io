@@ -38,9 +38,9 @@ redirect_from:
   * Artificial intelligence for drug discovery
   * Chemical data handling, curation and analysis
 * Bioinformatics
-  * NGS data analysis
-  * Phylogenetic trees
-  * NMDS analysis
+  * Metagenomics data analysis
+  * Primer design
+  * In silico PCR
 
 ## Publications
   <ul>{% for post in site.publications %}
