@@ -63,3 +63,10 @@ author_profile: true
 [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library)   
 [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural)   
 [IMPPAT](https://cb.imsc.res.in/imppat/home)   
+
+## Chemoinformatics courses:
+
+[Computational chemistry lectures by TMP Chem] (https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K)   
+[Strasbourg Summer School in Chemoinformatics, 2022] (https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC)
+
+
