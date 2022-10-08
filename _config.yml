@@ -74,10 +74,10 @@ social:
 # Analytics
 analytics: 
   provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
-  google:
+  google: G-ZEHYHGYCJB
     tracking_id          : G-ZEHYHGYCJB
-  goatcounter:
-    code		 : 
+  goatcounter: G-ZEHYHGYCJB
+    code		 : G-ZEHYHGYCJB
 
 
 # Site Author
