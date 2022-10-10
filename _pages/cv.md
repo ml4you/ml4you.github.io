@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D in Chemoinformatics**, Facutly of Sciences and Techniques of Tangier, Abdelmalek Essaadi University, **2024** (expected)
+* **Ph.D in Chemoinformatics**, Facutly of Sciences and Techniques of Tangier, Abdelmalek Essaadi University, **2023** (expected)
 * **M.S. in Biology and Biomaterials of the Oral Medium**, Faculty of Dentistry of Rabat, Mohammed V University, **2020**
 * **B.S. in Biology**, Faculty of Sciences of Rabat, Mohammed V University, **2017**
 
@@ -31,6 +31,10 @@ redirect_from:
   * Supervisor: Prof. Amal Maurady
   
 ## Skills
+* Molecular biology
+  * DNA extraction
+  * PCR amplification
+  * PCR purification
 * Molecular modelling
   * Molecular docking, molecular dynamics simulations, 3D-QSAR, pharmacophore modelling, virtual screening, free energy calculations
 * Chemoinformatics
