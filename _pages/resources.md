@@ -71,7 +71,7 @@ author_profile: true
 [Orientation of proteins in membranes database](https://opm.phar.umich.edu/)  
 [UniProt](https://www.uniprot.org/)  
 
-## Chemical bioactivity databases  
+## Chemical bioactivity databases:  
 
 [ChEMBL database](https://www.ebi.ac.uk/chembl/)  
 [BindingDB](https://www.bindingdb.org/)  
