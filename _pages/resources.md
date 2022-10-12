@@ -64,10 +64,24 @@ author_profile: true
 [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural)   
 [IMPPAT](https://cb.imsc.res.in/imppat/home)   
 
+## 3D protein structures databases:  
+
+[RCSB Protein Data Bank](https://www.rcsb.org/)  
+[Protein Data Bank in Europe](https://www.ebi.ac.uk/pdbe/)  
+[Orientation of proteins in membranes database](https://opm.phar.umich.edu/)  
+[UniProt](https://www.uniprot.org/)  
+
+## Chemical bioactivity databases  
+
+[ChEMBL database](https://www.ebi.ac.uk/chembl/)  
+[BindingDB](https://www.bindingdb.org/)  
+[PubChem database](https://pubchem.ncbi.nlm.nih.gov/)  
+[PDBbind database](http://www.pdbbind.org.cn/index.php)  
+[BRENDA Enzymes database](https://www.brenda-enzymes.org/)  
+
 ## Chemoinformatics courses:
 
 [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K)   
 [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC)   
 [BIGCHEM (Big Data in Chemistry) | H2020](https://bigchem.eu/node/63)
-
 
