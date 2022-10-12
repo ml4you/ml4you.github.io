@@ -52,7 +52,7 @@ author_profile: true
 [ZINC database](https://zinc20.docking.org/substances/subsets/biogenic/)  
 [Collective Molecular Activities of Useful Plants](http://bidd.group/CMAUP/)  
 [Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php)  
-[Cannabis Database](https://cannabisdatabase.ca/)  
+[Cannabis Compound Database](https://cannabisdatabase.ca/)  
 [FooDB](https://foodb.ca/)  
 [AfroDB](http://african-compounds.org/about/afrodb/)  
 [Comprehensive Marine Natural Products Database](https://www.cmnpd.org/)  
@@ -63,13 +63,16 @@ author_profile: true
 [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library)   
 [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural)   
 [IMPPAT](https://cb.imsc.res.in/imppat/home)   
+[NP-MRD](https://np-mrd.org/natural_products)  
 
 ## 3D protein structures databases:  
 
 [RCSB Protein Data Bank](https://www.rcsb.org/)  
 [Protein Data Bank in Europe](https://www.ebi.ac.uk/pdbe/)  
 [Orientation of proteins in membranes database](https://opm.phar.umich.edu/)  
-[UniProt](https://www.uniprot.org/)  
+[UniProt](https://www.uniprot.org/) 
+[AlphaFold protein structure database](https://alphafold.ebi.ac.uk/)  
+[Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page)  
 
 ## Chemical bioactivity databases:  
 
@@ -78,6 +81,17 @@ author_profile: true
 [PubChem database](https://pubchem.ncbi.nlm.nih.gov/)  
 [PDBbind database](http://www.pdbbind.org.cn/index.php)  
 [BRENDA Enzymes database](https://www.brenda-enzymes.org/)  
+
+## Pharmacophore screening tools:  
+
+[ZINCPharmer](http://zincpharmer.csb.pitt.edu/)  
+[Pharmit](https://pharmit.csb.pitt.edu/)  
+
+## Topology and parameters generators for small molecules using CHARMM force field for GROMACS:
+
+[CGenFF](https://cgenff.umaryland.edu/)  
+[SwissParam](https://www.swissparam.ch/)  
+[Automated Topology Builder](https://atb.uq.edu.au/)  
 
 ## Chemoinformatics courses:
 
