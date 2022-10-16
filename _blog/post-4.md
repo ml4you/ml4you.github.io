@@ -1,5 +1,5 @@
 ---
-title: 'Understanding machine learning for drug discovery'
+title: 'Supervised vs unsupervised methods in machine learning'
 date: 2022-10-16
 permalink: /blog/post-4
 excerpt_separator: <!--more-->
