@@ -1,6 +1,6 @@
 ---
 title: 'Understanding machine learning for drug discovery'
-date: 2022-09-12
+date: 2022-10-16
 permalink: /blog/post-4
 excerpt_separator: <!--more-->
 toc: true
@@ -37,7 +37,7 @@ Unsupervised models are exactly what they sound like, the models are left to wor
 
 | ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/4post-3.png ) |
 |:--:|
-| <b>Figure 3: Unsupervised learning tasks.</b> |
+| <b>Figure 3: Unsupervised learning tasks. Image by Dmytro Nikolaiev (medium.com/@andimid).</b> |
 
 Market basket analysis, on the other hand, is a modeling technique based upon the theory that if you buy a certain group of items, you're more likely to buy another group of items. 
 Density estimation is a very simple concept that is mostly used to explore the data to find some structure within it. 
