@@ -23,7 +23,7 @@ Machine learning models are supervised by loading them with knowledge so that we
 |:--:|
 | <b>Figure 1: Example of a chemical dataset viewed with Pandas.</b> |
 
-The names up here which are called: molecule_chembl_id, smiles, units, class... are called attributes. The columns are called features which include the data. If we plot this data, and look at a single data point on a plot, it'll have all of these attributes that would make a row on this chart also referred to as an observation. Looking directly at the value of the data, you can have two kinds. The first is numerical, when dealing with machine learning, the most commonly used data is numeric. The second is categorical, that is its non-numeric because it contains characters rather than numbers. In this case, it's categorical because this dataset is made for classification.
+The names up here which are called: Molecule Chembl ID, Smiles, Standard Value, etc.. are called attributes. The columns are called features which include the data. If we plot this data, and look at a single data point on a plot, it'll have all of these attributes that would make a row on this chart also referred to as an observation. Looking directly at the value of the data, you can have two kinds. The first is numerical, when dealing with machine learning, the most commonly used data is numeric. The second is categorical, that is its non-numeric because it contains characters rather than numbers. In this case, it's categorical because this dataset is made for classification.
 
 | ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/4post-2.png ) |
 |:--:|
