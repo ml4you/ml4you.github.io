@@ -1,5 +1,5 @@
 ---
-title: 'Supervised vs unsupervised methods in machine learning'
+title: 'Supervised vs. unsupervised methods in machine learning'
 date: 2022-10-16
 permalink: /blog/post-4
 excerpt_separator: <!--more-->
@@ -11,8 +11,8 @@ tags:
 ---
 
 The increasing volume of biomedical data in chemistry and life sciences requires development of new methods and approaches for their analysis. New approaches have proved to show improvement and accelerate the joint drug discovery and development processes. The accumulation of large datasets allows for better integration of machine learning and artificial intelligence to build and integrate more accurate models for predicting the bioactivity and the pharmacokinetics of new drugs in the pharmaceutical field. 
-Machine learning approaches are divided into three broad categories, which correspond to learning patterns, depending on the nature of the "signal" or "feedback" available to the learning system.
 <!--more-->
+Machine learning approaches are divided into three broad categories, which correspond to learning patterns, depending on the nature of the "signal" or "feedback" available to the learning system.
 
 ## 1. Supervised learning
 
