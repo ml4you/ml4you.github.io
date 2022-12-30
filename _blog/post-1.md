@@ -142,5 +142,5 @@ combined.to_csv("ache_labelled.csv", index=None)
 
 ## Conclusion
 
-This article’s aim was to demonstrate an alternative way to retrieve bioactivity data from ChEMBL without using code as opposed to the previous article. Furthermore, data curation and data classification was covered in detail as it is a necessary step and can highly impact the performance of machine learning models. If you found this article useful, follow the blog for more tutorials in the future.
+This article’s aim was to demonstrate an alternative way to retrieve bioactivity data from ChEMBL without using code. Furthermore, data curation and data classification was covered in detail as it is a necessary step and can highly impact the performance of machine learning models. If you found this article useful, follow the blog for more tutorials in the future.
 
