@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yassir Boulaamane"
 title_separator          : "-"
 name                     : &name "Yassir Boulaamane"
-description              : &description "Ph.D Student in Chemoinformatics"
+description              : &description "Ph.D Candidate in Chemoinformatics"
 url                      : https://yboulaamane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yboulaamane/yboulaamane.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yassir Boulaamane"
   avatar           : "profile.png"
-  bio              : "Ph.D Student in Chemoinformatics"
+  bio              : "Ph.D Candidate in Chemoinformatics"
   location         :
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=yassir+boulaamane"
