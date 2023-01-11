@@ -87,6 +87,12 @@ author_profile: true
 [ZINCPharmer](http://zincpharmer.csb.pitt.edu/)  
 [Pharmit](https://pharmit.csb.pitt.edu/)  
 
+## Pharmacokinetics parameters prediction tools:  
+[SwissADME](http://www.swissadme.ch/)  
+[pkCSM](https://biosig.lab.uq.edu.au/pkcsm/)  
+[ADMETlab 2.0](https://admetmesh.scbdd.com/)  
+[ProTox-II](https://tox-new.charite.de/protox_II/)  
+
 ## Topology and parameters generators for small molecules using CHARMM force field for GROMACS:
 
 [CGenFF](https://cgenff.umaryland.edu/)  
