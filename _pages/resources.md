@@ -64,6 +64,7 @@ author_profile: true
 [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural)   
 [IMPPAT](https://cb.imsc.res.in/imppat/home)   
 [NP-MRD](https://np-mrd.org/natural_products)  
+[IBS Natural Compounds](https://www.ibscreen.com/natural-compounds)   
 
 ## 3D protein structures databases:  
 
