@@ -106,3 +106,10 @@ author_profile: true
 [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC)   
 [BIGCHEM (Big Data in Chemistry) | H2020](https://bigchem.eu/node/63)
 
+## Normal mode analysis for predicting protein motions
+
+[iMod Server](https://imods.iqfr.csic.es/)  
+
+## Virtual screening server for drug repurposing
+
+[DrugRep](http://cao.labshare.cn:10180/DrugRep/php/index.php)  
