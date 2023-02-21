@@ -100,7 +100,7 @@ author_profile: true
 [SwissParam](https://www.swissparam.ch/)  
 [Automated Topology Builder](https://atb.uq.edu.au/)  
 
-## Chemoinformatics courses:
+## Cheminformatics free courses:
 
 [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K)   
 [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC)   
