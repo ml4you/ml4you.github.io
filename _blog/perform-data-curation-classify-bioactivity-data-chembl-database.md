@@ -1,7 +1,7 @@
 ---
 title: 'How to perform data curation and classify bioactivity data on ChEMBL database'
 date: 2022-09-07
-permalink: /blog/post-1
+permalink: /blog/perform-data-curation-classify-bioactivity-data-chembl-database
 excerpt_separator: <!--more-->
 toc: true
 tags:
