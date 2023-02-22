@@ -1,7 +1,7 @@
 ---
 title: 'Chemical databases for machine learning in drug discovery'
 date: 2022-09-12
-permalink: /blog/post-2
+permalink: /blog/2022/09/chemical-databases-machine-learning-drug-discovery
 excerpt_separator: <!--more-->
 toc: true
 tags:
