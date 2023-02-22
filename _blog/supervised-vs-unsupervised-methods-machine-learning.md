@@ -1,7 +1,7 @@
 ---
 title: 'Supervised vs. unsupervised methods in machine learning'
 date: 2022-10-16
-permalink: /blog/post-4
+permalink: /blog/2022/10/supervised-vs-unsupervised-methods-machine-learning
 excerpt_separator: <!--more-->
 toc: true
 tags:
