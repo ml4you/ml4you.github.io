@@ -15,9 +15,6 @@ main:
   - title: "Blog"
     url: /blog/
     
-  - title: "Gromacs Tutorial"
-    url: /gromacs-tutorial/  
-    
   - title: "CV"
     url: /cv/
 
