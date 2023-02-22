@@ -1,6 +1,6 @@
 ---
 title: 'Beginner-friendly guide to molecular dynamics using Gromacs'
-date: 2023-02-26
+date: 2023-02-22
 permalink: /blog/2023/02/beginner-friendly-guide-molecular-dynamics-using-gromacs
 excerpt_separator: <!--more-->
 toc: true
