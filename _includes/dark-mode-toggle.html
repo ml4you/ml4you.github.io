@@ -1,0 +1,14 @@
+<html>
+  <head>
+    {% if page.dark_mode %}
+      <link rel="stylesheet" href="{{ site.dark_css }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ site.light_css }}">
+    {% endif %}
+  </head>
+  <body>
+    {% include dark-mode-toggle.html %}
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>
