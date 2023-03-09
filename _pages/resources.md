@@ -66,6 +66,7 @@ author_profile: true
 [IMPPAT](https://cb.imsc.res.in/imppat/home)   
 [NP-MRD](https://np-mrd.org/natural_products)  
 [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds)   
+[Phytochemicals](https://www.phytochemicals.info/)  
 
 ## 3D protein structures databases:  
 
