@@ -128,11 +128,16 @@ author_profile: true
 [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)  
 [ProteinsPlus](https://proteins.plus/)  
 [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)  
-[]()
-[]()
-[]()
-
+[MetaPredict](http://metapredict.icoa.fr/)  
+[RPBS Web Portal](https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#welcome)  
+[AI based scoring function platform](http://cadd.zju.edu.cn/asfp/?fbclid=IwAR0SlLlG6WxHVj7O3xvTufTWHdQR_heLefAWqGJXfY3z39-0sy3NxTd5X5E)  
+[ChemPlot: A Tool For Chemical Space Visualization](https://chemplot.streamlit.app/)  
+[ChemDB Chemoinformatics Portal](http://cdb.ics.uci.edu/)  
 
 ## Metagenomics:
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
+
+## Lipidomics:
+
+[LipidSig: a web-based tool for lipidomic data analysis](http://www.chenglab.cmu.edu.tw/lipidsig/DE/)  
