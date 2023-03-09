@@ -107,6 +107,7 @@ author_profile: true
 [CGenFF](https://cgenff.umaryland.edu/)  
 [SwissParam](https://www.swissparam.ch/)  
 [Automated Topology Builder](https://atb.uq.edu.au/)  
+[CHARMM-GUI](https://www.charmm-gui.org/)  
 
 ## Cheminformatics free courses:
 
