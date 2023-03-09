@@ -77,6 +77,11 @@ author_profile: true
 [AlphaFold protein structure database](https://alphafold.ebi.ac.uk/)  
 [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page)  
 
+## Protein engineering:
+
+[DynaMut](https://biosig.lab.uq.edu.au/dynamut/)  
+
+
 ## Chemical bioactivity databases:  
 
 [ChEMBL database](https://www.ebi.ac.uk/chembl/)  
