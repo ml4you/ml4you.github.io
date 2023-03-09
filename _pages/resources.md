@@ -122,7 +122,7 @@ author_profile: true
 [PepDraw](https://pepdraw.com/)  
 [PepSite](http://pepsite2.russelllab.org/)  
 
-## Other useful tools for computational chemistry:
+## Useful tools for computational chemistry:
 
 [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk)  
 [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)  
@@ -133,10 +133,19 @@ author_profile: true
 [AI based scoring function platform](http://cadd.zju.edu.cn/asfp/?fbclid=IwAR0SlLlG6WxHVj7O3xvTufTWHdQR_heLefAWqGJXfY3z39-0sy3NxTd5X5E)  
 [ChemPlot: A Tool For Chemical Space Visualization](https://chemplot.streamlit.app/)  
 [ChemDB Chemoinformatics Portal](http://cdb.ics.uci.edu/)  
+[TorchDrug](https://torchdrug.ai/)  
+[Open Targets Platform](https://platform.opentargets.org/)  
+[3D-QSAR](https://www.3d-qsar.com/)  
+[Screening Explorer](http://stats.drugdesign.fr/)  
+[LigRMSD](https://ligrmsd.appsbio.utalca.cl/)  
+[BoBER: web interface to the base of bioisosterically exchangeable replacements](http://bober.insilab.org/)  
+[Disease List Automatically Derived For You](http://dlad4u.zhang-lab.org/index.php)  
 
-## Metagenomics:
+## Genomics:
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
+[The Polygenic Score Catalog](https://www.pgscatalog.org/)  
+[PubMLST](https://pubmlst.org/)  
 
 ## Lipidomics:
 
