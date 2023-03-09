@@ -146,8 +146,10 @@ author_profile: true
 [LigRMSD](https://ligrmsd.appsbio.utalca.cl/)  
 [BoBER: web interface to the base of bioisosterically exchangeable replacements](http://bober.insilab.org/)  
 [Disease List Automatically Derived For You](http://dlad4u.zhang-lab.org/index.php)  
-
-## Genomics:
+[Python Code Examples](https://www.programcreek.com/python/)  
+[NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/)  
+ 
+## Genomics
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
 [The Polygenic Score Catalog](https://www.pgscatalog.org/)  
