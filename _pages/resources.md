@@ -43,6 +43,7 @@ author_profile: true
 [www.scienceaccelator.gov](www.scienceaccelator.gov)  
 [http://oaister.worldcat.org/](http://oaister.worldcat.org/)   
 [http://worldwidescience.org/](http://worldwidescience.org/)  
+[Sijil UM5](http://ao.um5.ac.ma/xmlui/)  
 
 
 ## Natural Products Databases for drug discovery:
@@ -72,6 +73,7 @@ author_profile: true
 [Protein Data Bank in Europe](https://www.ebi.ac.uk/pdbe/)  
 [Orientation of proteins in membranes database](https://opm.phar.umich.edu/)  
 [UniProt](https://www.uniprot.org/) 
+[InterPro](https://www.ebi.ac.uk/interpro/)  
 [AlphaFold protein structure database](https://alphafold.ebi.ac.uk/)  
 [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page)  
 
@@ -82,6 +84,7 @@ author_profile: true
 [PubChem database](https://pubchem.ncbi.nlm.nih.gov/)  
 [PDBbind database](http://www.pdbbind.org.cn/index.php)  
 [BRENDA Enzymes database](https://www.brenda-enzymes.org/)  
+[ExCAPE-DB: ExCAPE chemogenomics database](https://solr.ideaconsult.net/search/excape/)  
 
 ## Pharmacophore screening tools:  
 
@@ -113,3 +116,23 @@ author_profile: true
 ## Virtual screening server for drug repurposing:
 
 [DrugRep](http://cao.labshare.cn:10180/DrugRep/php/index.php)  
+
+## Peptide design tools:
+
+[PepDraw](https://pepdraw.com/)  
+[PepSite](http://pepsite2.russelllab.org/)  
+
+## Other useful tools for computational chemistry:
+
+[OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk)  
+[OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)  
+[ProteinsPlus](https://proteins.plus/)  
+[PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)  
+[]()
+[]()
+[]()
+
+
+## Metagenomics:
+
+[SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
