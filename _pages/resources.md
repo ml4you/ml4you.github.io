@@ -148,6 +148,7 @@ author_profile: true
 [Disease List Automatically Derived For You](http://dlad4u.zhang-lab.org/index.php)  
 [Python Code Examples](https://www.programcreek.com/python/)  
 [NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/)  
+[MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/)  
  
 ## Genomics
 
