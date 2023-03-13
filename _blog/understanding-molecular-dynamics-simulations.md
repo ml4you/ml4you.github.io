@@ -1,7 +1,7 @@
 ---
 title: 'Understanding molecular dynamics simulations'
 date: 2023-03-12
-permalink: /blog/2023/03/understanding-molecular-dynamics-simulations.md
+permalink: /blog/2023/03/understanding-molecular-dynamics-simulations
 excerpt_separator: <!--more-->
 toc: true
 tags:
