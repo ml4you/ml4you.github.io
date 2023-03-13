@@ -9,8 +9,11 @@ tags:
   - research
   - structural bioinformatics
 ---
+| ![Figure1](https://github.com/yboulaamane/yboulaamane.github.io/blob/615fbbb664d302cce6cb72ed92b1e228ca3f45ec/_blog/5post-1.png) |
+|:--:|
+| <b>Figure 1:  Example MD simulation output plots</b> |
 
-Hey there, fellow science enthusiasts! Today, let's talk about Molecular Dynamics (MD) simulation and how it can help us understand the behavior of complex molecular systems.
+Hey there! Today, let's talk about Molecular Dynamics (MD) simulation and how it can help us understand the behavior of complex molecular systems.
 MD simulation works by creating an initial configuration of a system, including the positions, velocities, and masses of all atoms or molecules. The simulation then calculates the forces acting on each particle based on their interactions with other particles in the system. <!--more--> These forces are used to update the positions and velocities of each particle over a small time step, typically in the femtosecond to picosecond range. The simulation is repeated for many time steps, allowing the system to evolve over time.
 
 One of the coolest things about MD simulation is its ability to provide insights into the behavior of complex molecular systems that are difficult or impossible to study experimentally. For example, it can be used to study the behavior of proteins, which are crucial for many biological processes. By simulating the motion of individual atoms and molecules, researchers can gain insights into the structure and function of proteins, including how they interact with other molecules and how their structure changes over time.
