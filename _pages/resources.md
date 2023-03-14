@@ -151,7 +151,7 @@ author_profile: true
 [NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/)  
 [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/)  
  
-## Genomics
+## Genomics:
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
 [The Polygenic Score Catalog](https://www.pgscatalog.org/)  
@@ -160,3 +160,8 @@ author_profile: true
 ## Lipidomics:
 
 [LipidSig: a web-based tool for lipidomic data analysis](http://www.chenglab.cmu.edu.tw/lipidsig/DE/)  
+
+## Blogs:
+
+[Practical Fragments](http://practicalfragments.blogspot.com/)  
+[avrilomics](https://avrilomics.blogspot.com/)  
