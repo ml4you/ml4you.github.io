@@ -41,3 +41,12 @@
 @import "print";
 
 @import "custom";
+
+/* Styles for the main navigation menu when in dark mode */
+nav.main-navigation.dark-mode ul.menu {
+  background-color: #333;
+}
+
+...
+
+
