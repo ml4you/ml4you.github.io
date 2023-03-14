@@ -39,6 +39,9 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    
+    <body{% if page.dark_mode == true %} class="dark-mode"{% endif %}>
+
 
   </body>
 </html>
