@@ -19,13 +19,13 @@ Machine learning approaches are divided into three broad categories, which corre
 
 Machine learning models are supervised by loading them with knowledge so that we can have it predict future instances. Teaching the model requires training it with some data from a labeled dataset. 
 
-| ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/4post-1.png ) |
+| ![Figure1](https://user-images.githubusercontent.com/7014404/225256631-3a7927f8-0f0e-4c3a-9220-70bc0496e4db.png) |
 |:--:|
 | <b>Figure 1: Example of a chemical dataset viewed with Pandas.</b> |
 
 The names up here which are called: molecule_chembl_id and smiles are called attributes. Other names such as standard_value represents the numerical values for each sample, whereas the class name represents a categorical value which can be either 1 (active) or 0 (inactive). The columns are called features which include the data. If we plot this data, and look at a single data point on a plot, it'll have all of these attributes that would make a row on this chart also referred to as an observation. Looking directly at the value of the data, you can have two kinds. The first is numerical, when dealing with machine learning, the most commonly used data is numeric. The second is categorical, that is its non-numeric because it contains characters rather than numbers. In this case, it's categorical because this dataset is made for classification.
 
-| ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/4post-2.png ) |
+| ![Figure2](https://user-images.githubusercontent.com/7014404/225256633-ae720fd3-3c21-4cc5-bda4-4c4e8bdea928.png) |
 |:--:|
 | <b>Figure 2: Supervised learning.</b> |
 
@@ -36,7 +36,7 @@ There are two types of supervised learning techniques. They are classification, 
 
 Unsupervised models are exactly what they sound like, the models are left to work on their own to discover information that may not be visible to the human eye. It means, the unsupervised algorithm trains on the dataset, and draws conclusions on unlabeled data. Generally speaking, unsupervised learning has more difficult algorithms than supervised learning since we know little to no information about the data, or the outcomes that are to be expected. Dimension reduction, density estimation, market basket analysis, and clustering are the most widely used unsupervised machine learning techniques. Dimensionality reduction, and/or feature selection, play a large role in this by reducing redundant features to make the classification easier.
 
-| ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/4post-3.png ) |
+| ![Figure3](https://user-images.githubusercontent.com/7014404/225256636-fbbe6ac3-8726-46ff-aad4-9025c25bd75a.png) |
 |:--:|
 | <b>Figure 3: Unsupervised learning tasks. Image by Dmytro Nikolaiev (medium.com/@andimid).</b> |
 
@@ -48,5 +48,3 @@ Clustering analysis has many applications in different domains, whether it be a 
 ## Bottom line
 
 The biggest difference between supervised and unsupervised learning is that supervised learning deals with labeled data while unsupervised learning deals with unlabeled data. Supervised models employ machine learning algorithms for classification and regression, whereas in unsupervised learning, we have methods such as clustering. In comparison to supervised learning, unsupervised learning has fewer models and fewer evaludation methods that can be used to ensure the outcome of the model is accurate. As such, unsupervised learning creates a less controllable environment as the machine is creating outcomes for us.
-
- 
