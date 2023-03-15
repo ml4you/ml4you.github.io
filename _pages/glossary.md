@@ -5,54 +5,84 @@ permalink: /glossary/
 author_profile: true
 ---
 
-## Allosteric: 
-From the Greek allos meaning other, allosteric drugs bind elsewhere on the protein surface. Their action is indirect: they affect protein activity by changing the conformation at the second binding site.
-## Assay Development:
-The process by which an assay, with suitable reprodicibility and dynamic range, is established.
-## ATP:
-Adenosine triphosphate is the main molecular energy currency of cells.
-![image](https://user-images.githubusercontent.com/7014404/219590540-980a24d6-7ba0-4c75-b726-3286f74770a9.png)
-## Enumerate:
-A chemo-informatic technique which takes a chemical scaffold and collections of pendant structural groups as input and automatically generates the structures for all combinations thereof.
-## Enzyme:
-A protein that acts as a catalyst for a specific biochemical reaction through binding of a substrate to its active site.
-## GPCR:
-G protein-coupled receptors (GPCRs) are proteins embedded into membranes via seven transmembrane domains which detect signalling molecules outside the cell and subsequently activate intra-cellular responses.
-## Hit:
-A chemical starting point for a drug discovery program.
-## Hit Identification:
-The process by which a hit for a given target is discovered.
-## Ion Channel:
-Plasma membrane embedded proteins which facilitate the movement of ions across membranes. 
-## Lipophilicity:
-Lipophilicity (from Greek lipos “fat” and filikos “friendly”), refers to the ability of a compound to dissolve in lipids and lipid-like substances.
-## Medicinal Chemistry:
-The scientific discipline involved in discovering new chemical compounds for their use as medicines.
-## Metabolism:
-Drug metabolism is the breakdown of drugs by specialized enzymes in living organisms. 
-## Metabolite:
-A modified drug formed after administration from the action of metabolic enzymes from the respective organism.
-## NCE:
-New Chemical Entity is term used by the U.S. Food and Drug Administration to mean a drug who’s active ingredient has not been previously approved.
-## Optimization Parameters:
-Optimization parameters are properties of molecules which need to be improved (or maintained) in order to progress a molecule from a hit to a lead and to a drug candidate.
-## Oral Bioavailability:
-The percentage of the administered dose of a drug which is absorbed into the bloodstream.
-## Orthosteric:
-From the greek orthos meaning straight, upright, right or correct, orthosteric refers to drugs which bind at the active site, competing with the natural substrate or ligand.
-## PPI:
-Protein-protein Interactions (PPIs) are contacts between interfaces of two proteins.
-## PROTAC:
-A proteolysis targeting chimera is a bifunctional organic molecule consisting of two binder portions connected via a linker. PROTACs bind a protein of interest (POI) and an E3 ligase protein inducing ubiquitination and subsequent degradation of the POI. PROTACs are a type of proximity inducing drugs.
-## Proximity inducing drugs:
-Molecules which simulatneously bind two proteins resulting in one of the proteins, the protein of interest (POI), becoming a substrate for the catalytic activity of the other (see PROTACs).
-## Selectivity:
-Selectivity (one of the most important optimization parameters for small molecules) is the difference in potency of the drug candidate for its target versus all off-targets.
-## Small Molecule:
-A low molecular weight (below 1500 Daltons) organic molecule which is used to perturb biological systems with the goal of becoming a medicine.
-## Structure-based Drug Design:
-An approach to drug design which uses a combination of 3D structural information, computational approaches and computer graphics.
-## Target:
-Also drug target, is the biologcal molecule (most often a protein) that a drug binds to, resulting in a disease altering effect.
-## Target Identification:
-The process by which a drug target is implicated as a causal factor in a disease.
+# Computational chemistry
+
+### Ab initio calculations: 
+Calculations that are performed using basic principles of quantum mechanics, without any experimental data or assumptions.
+
+### Density functional theory (DFT): 
+A computational method that uses the electronic density of a system to calculate properties such as energy, structure, and reactivity.
+
+### Force field: 
+A mathematical model used to describe the interactions between atoms or molecules in a system.
+
+### Molecular mechanics: 
+A method of calculating the energy and forces in a molecular system based on classical mechanics.
+
+### Quantum mechanics (QM): 
+A theory that describes the behavior of particles at the atomic and subatomic level, and is used to calculate properties such as energy and structure in chemical systems.
+
+### Molecular dynamics (MD): 
+A computational method that simulates the motion of atoms and molecules over time, based on classical mechanics and force field calculations.
+
+### Monte Carlo (MC) simulations: 
+A computational method that uses statistical sampling to simulate the behavior of a system, based on random input parameters.
+
+### Basis set: 
+A set of mathematical functions used to describe the wave function of electrons in a quantum mechanical calculation.
+
+### Gaussian function: 
+A mathematical function that describes the shape of a wave function in a quantum mechanical calculation.
+
+### Energy minimization: 
+A computational method used to find the lowest-energy configuration of a system, by adjusting the positions of the atoms or molecules until the energy is minimized.
+
+### Ab initio molecular dynamics: 
+A type of molecular dynamics simulation that uses ab initio calculations to describe the behavior of a system.
+
+### Hybrid method: 
+A computational method that combines two or more types of calculations, such as DFT and molecular mechanics, to improve accuracy.
+
+### Electrostatic potential: 
+The electric field generated by a charged particle, which can be used to describe the interactions between molecules in a system.
+
+### Non-bonded interaction: 
+Interactions between atoms or molecules that are not directly bonded to each other, such as van der Waals forces or electrostatic interactions.
+
+# Drug design
+
+### Docking: 
+A computational method that predicts the binding mode and affinity of a small molecule to a target protein.
+
+### Ligand: 
+A small molecule that binds to a target protein and modulates its activity.
+
+### Receptor: 
+A protein that binds to a ligand and mediates its biological activity.
+
+### Molecular dynamics simulations: 
+A computational method that simulates the motion of atoms and molecules over time to predict the behavior of a system.
+
+### Virtual screening: 
+A computational method that uses molecular docking or other techniques to identify potential drug candidates from a large database of compounds.
+
+### Pharmacophore: 
+A set of chemical features that are necessary for a ligand to bind to a receptor and produce a biological response.
+
+### Quantitative structure-activity relationship (QSAR): 
+A computational method that predicts the activity of a compound based on its chemical structure and the activity of similar compounds.
+
+### Homology modeling: 
+A computational method that predicts the structure of a protein based on its sequence similarity to a known protein structure.
+
+### Fragment-based drug design: 
+A method of drug design that involves the identification of small fragments that bind to a target protein and the subsequent assembly of these fragments into a larger molecule.
+
+### Lead optimization: 
+The process of modifying a lead compound to improve its potency, selectivity, pharmacokinetic properties, or other desirable characteristics.
+
+### Drug-likeness: 
+A set of physicochemical properties that are commonly found in approved drugs, used to evaluate the potential of a compound to become a drug.
+
+### Target validation: 
+The process of demonstrating that a target protein is biologically relevant and is a suitable target for drug discovery.
