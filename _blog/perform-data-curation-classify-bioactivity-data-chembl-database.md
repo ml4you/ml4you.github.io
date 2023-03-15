@@ -14,7 +14,7 @@ ChEMBL database is the largest database, to date, containing curated bioactivity
 <!--more-->
 The first step to use this database is to search the ChEMBL database using keywords of a target protein of interest, it is possible to run a search using other keywords related to diseases, compounds or assays. In this tutorial, we are going to search for Acetylcholinesterase as illustrated in Figure 1.
 
-| ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-1.png) |
+| ![Figure1](https://user-images.githubusercontent.com/7014404/225256089-5c72e4cc-f77c-4ee8-90ea-f548343b5ac4.png) |
 |:--:|
 | <b>Figure 1: ChEMBL search result example</b> |
 
@@ -24,7 +24,7 @@ After clicking on the target, we will be sent to another page containing all the
 Scroll down to activity charts and notice the pie chart on the left concerning all the associated bioactivity data compiled from the literature and their distribution according to the activity type.  
  
  
-| ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-2.png) |
+| ![Figure2](https://user-images.githubusercontent.com/7014404/225256100-351cffcb-dc10-4d4a-949c-07397f6b4bb6.png) |
 |:--:|
 | <b>Figure 2: Activity charts and distribution of activity types of the selected target, CHEMBL220</b> |
 
@@ -51,7 +51,7 @@ x
 
 **Output**
 
-| ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-3.png) |
+| ![Figure3](https://user-images.githubusercontent.com/7014404/225256101-c4f9bfc6-652b-46da-af63-dbcab7c91255.png) |
 |:--:|
 | <b>Figure 3: AChE curated dataset output.</b> |
  
@@ -71,7 +71,7 @@ x=x.drop_duplicates("Molecule ChEMBL ID", keep="first")
 
 **Output:**
 
-| ![Figure4](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-4.png) |
+| ![Figure4](https://user-images.githubusercontent.com/7014404/225256109-4ce6979f-0e42-469a-8191-459dc6530c3b.png) |
 |:--:|
 | <b>Figure 4: Pandas output of AChE dataset after removing duplicate compounds.</b> |
  
@@ -85,7 +85,7 @@ x
 
 **Output:**
 
-| ![Figure5](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-5.png) |
+| ![Figure5](https://user-images.githubusercontent.com/7014404/225256112-91eb87c4-cbd7-424c-80fe-bb45ed014f31.png) |
 |:--:|
 | <b>Figure 5: Final curated dataset.</b> |
 
@@ -128,7 +128,7 @@ combined
 
 **Output:**
  
-| ![Figure6](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/984c2b8dff1a546b4fd9ad6d2cdb6e57e572851f/_blog/1post-6.png) |
+| ![Figure6](https://user-images.githubusercontent.com/7014404/225256117-a1a5f883-f733-4679-9ac5-668d4a82e708.png) |
 |:--:|
 | <b>Figure 6: Curated dataset with label column indicating whether the compound is active or inactive.</b> |
 
