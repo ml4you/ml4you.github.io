@@ -12,10 +12,8 @@ tags:
 PaDELPy is a Python library that wraps the PaDEL-Descriptor molecular descriptor calculation software and can be used to build scientific machine learning models. Machine learning models are created by training an algorithm to recognize patterns in data and can be either supervised or unsupervised. There are many machine learning algorithms, such as classification and regression, and they can be implemented in languages such as Python or R. The efficiency and accuracy of both the algorithm and the model can be analyzed and calculated.
 <!--more-->
 
+![Figure1](https://user-images.githubusercontent.com/7014404/225259643-df0568cd-1cfe-4395-aa7e-980902108f25.png)
 
-| ![Figure1](https://user-images.githubusercontent.com/7014404/225259643-df0568cd-1cfe-4395-aa7e-980902108f25.png) |
-|:--:|
-| <b>Figure 1: PaDELPy at: https://github.com/ecrl/padelpy/blob/master/padelpy/wrapper.py</b> |
 ## What Is PaDELPy?
 PaDELPy is a Python library that simplifies the use of the PaDEL-Descriptor molecular descriptor calculation software to calculate molecular fingerprints for scientific machine learning models. It is a wrapper for the Java-based PaDEL-Descriptor, eliminating the need for running a Java file and making implementation quicker. 
 ## Getting Started with the Code
