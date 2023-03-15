@@ -9,11 +9,11 @@ tags:
   - drug discovery
   - qsar
 ---
-
 PaDELPy is a Python library that wraps the PaDEL-Descriptor molecular descriptor calculation software and can be used to build scientific machine learning models. Machine learning models are created by training an algorithm to recognize patterns in data and can be either supervised or unsupervised. There are many machine learning algorithms, such as classification and regression, and they can be implemented in languages such as Python or R. The efficiency and accuracy of both the algorithm and the model can be analyzed and calculated.
 <!--more-->
 
-| ![Figure1](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-1.png) |
+
+| ![Figure1](https://user-images.githubusercontent.com/7014404/225259643-df0568cd-1cfe-4395-aa7e-980902108f25.png) |
 |:--:|
 | <b>Figure 1: PaDELPy at: https://github.com/ecrl/padelpy/blob/master/padelpy/wrapper.py</b> |
 ## What Is PaDELPy?
@@ -95,12 +95,12 @@ df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/HC
 #Loading data head
 df.head()
 ```
-![Figure2](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-2.png)
+![Figure2](https://user-images.githubusercontent.com/7014404/225259647-e6996ee3-f4f2-45a9-93ad-6d8299c304cd.png)
 ```
 #Loading data tail
 df.tail(2)
 ```
-![Figure3](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-3.png)
+![Figure3](https://user-images.githubusercontent.com/7014404/225259650-4b67958c-cd8f-4d5a-b630-6cdc42e548a2.png)
 
 In order to calculate the molecular descriptor using PaDEL, it is necessary to prepare the data by concatenating the two relevant columns from the dataset. This concatenated data will serve as input to our model.
 ```
@@ -109,7 +109,7 @@ df2 = pd.concat( [df['CANONICAL_SMILES'],df['CMPD_CHEMBLID']], axis=1 )
 df2.to_csv('molecule.smi', sep='\t', index=False, header=False)
 df2
 ```
-![Figure4](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-4.png)
+![Figure4](https://user-images.githubusercontent.com/7014404/225259651-e4e3bae9-a8b9-4238-88e2-c02a16b7e1c6.png)
 To compute the molecular fingerprint using PaDEL, we can choose from 12 available fingerprint types. To calculate all 12 types, we need to modify the input argument for descriptor types to any of the options in the fp dictionary variable.
 ```
 #listing the dictionary pairs
@@ -160,7 +160,7 @@ Displaying the calculated fingerprints.
 descriptors = pd.read_csv(fingerprint_output_file)
 descriptors
 ```
-![Figure5](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-5.png)
+![Figure5](https://user-images.githubusercontent.com/7014404/225259654-91453085-9eea-4129-a763-6fe458ce7634.png)
 
 Next, we will utilize the processed data and Random Forest algorithm to create a classification model.
 ```
@@ -178,7 +178,7 @@ def remove_low_variance(input_data, threshold=0.1):
 X = remove_low_variance(X, threshold=0.1)
 X
 ```
-![Figure6](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-6.png)
+![Figure6](https://user-images.githubusercontent.com/7014404/225259660-deff3ff9-cd5d-484e-b7e4-db47bc8c7dcf.png)
 
 The processed data appears to be well-organized and informative, highlighting the most effective drugs. Therefore, we can proceed to generate predictions using our model.
 ```
@@ -255,7 +255,7 @@ mcc_test_series = pd.Series(mcc_test, name='MCC_test')
 performance_metrics = pd.concat([model_name, mcc_train_series, mcc_cv_series, mcc_test_series], axis=1)
 performance_metrics
 ```
-![Figure7](https://github.com/yboulaamane/yboulaamane.github.io/blob/master/_blog/images/6post-7.png)
+![Figure7](https://user-images.githubusercontent.com/7014404/225259664-4c0cabf5-a6e1-4d2f-9533-493881c0780b.png)
 Based on the performance metrics of the Random Forest model used for predicting molecular drug activity, it appears to be effective on the current dataset. However, it is possible to test the performance of other algorithms as well.
 
 ## Conclusion
