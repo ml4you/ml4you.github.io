@@ -17,5 +17,5 @@ My expertise also includes high-throughput virtual screening using both ligand-b
 **Libraries:** Pandas, Numpy, RDkit, Scikit-Learn, Matplotlib, Seaborn, Keras, Tensorflow
 **Molecular docking:** AutoDock Vina, Glide   
 **Molecular dynamics simulations:** Gromacs, Desmond  
-**Free energy calculations:** g_mmpbsa
-**DFT studies:** Gaussian09
+**Free energy calculations:** g_mmpbsa  
+**DFT studies:** Gaussian09  
