@@ -14,7 +14,7 @@ In my work, I am involved in the early stages of drug discovery development, whi
 My expertise also includes high-throughput virtual screening using both ligand-based approaches (such as similarity search, pharmacophore modeling, quantitative structure-activity relationship, machine learning, and convolutional neural networks) and structure-based approaches (such as molecular docking, conformational sampling, binding affinities, and protein-ligand interactions). Additionally, I conduct molecular dynamics simulations to study the dynamics of the drug-target complex, including RMSD, RMSF, radius of gyration, solvent accessible surface, hydrogen bonds, per-residue energy decomposition, umbrella sampling, and free energy perturbations.
 
 **Programming language:** Python, Bash  
-**Libraries:** Pandas, Numpy, RDkit, Scikit-Learn, Matplotlib, Seaborn, Keras, Tensorflow
+**Libraries:** Pandas, Numpy, RDkit, Scikit-Learn, Matplotlib, Seaborn, Keras, Tensorflow  
 **Molecular docking:** AutoDock Vina, Glide   
 **Molecular dynamics simulations:** Gromacs, Desmond  
 **Free energy calculations:** g_mmpbsa  
