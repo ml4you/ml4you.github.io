@@ -26,7 +26,7 @@ A good state of the art must therefore make it possible to begin research with a
 Before embarking on the actual bibliographic research, you must make a list of the sources available in your field of research. At master's or thesis level, you are certainly already able to distinguish between the various specialized documents: reference works, classics, articles published in peer-reviewed journals, specialized institutional or university sites, archival documents, reports scientists, primary sources/secondary sources, etc.
 The current abundance of digital resources should lead you to be particularly vigilant about the documents you consult. You will save considerable time by selecting reliable sources, from serious authors or research centres, by prioritizing the data and immediately discarding unnecessary reading.
 
-| ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-1.png ) |
+| ![Figure1](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/images/3post-1.png ) |
 |:--:|
 | <b>Figure 1: Some publishers of international research journals.</b> |
 
@@ -34,13 +34,13 @@ The current abundance of digital resources should lead you to be particularly vi
 An effective bibliographic search for the realization of a state of the art necessarily passes by the definition of key words to be inserted in the bibliographic search engines, according to your subject. You will certainly already have names of authors, but you will also necessarily have to do thematic research to flush out more sources.
 It is advisable to start from general keywords and gradually refine the theme. This can take time and it is recommended to write down your ideas and all your keywords. To get an overview of this research, you can organize the key words and main ideas on paper, in the form of lists, tables or tree diagrams, with colors or any other visual means that suits you.
 
-| ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-2.png ) |
+| ![Figure2](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/images/3post-2.png ) |
 |:--:|
 | <b>Figure 2: The term "keyword" refer to the words and phrases that people enter into a search engine to find information that they're looking for.</b> |
 
 Don't overlook the valuable help that other people can give you. Discussion with fellow seminarians, more advanced students can be very helpful. The professors and in particular your dissertation or thesis director are there to guide you. In addition, university libraries generally have a support service to help students and researchers at all stages of bibliographic research.
 
-| ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/3post-3.png ) |
+| ![Figure3](https://raw.githubusercontent.com/yboulaamane/yboulaamane.github.io/master/_blog/images/3post-3.png ) |
 |:--:|
 | <b>Figure 3: Popular reference management tools.</b> |
 
