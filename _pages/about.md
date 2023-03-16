@@ -19,3 +19,5 @@ My expertise also includes high-throughput virtual screening using both ligand-b
 **Molecular dynamics simulations:** Gromacs, Desmond  
 **Free energy calculations:** g_mmpbsa  
 **DFT studies:** Gaussian09  
+
+![IBC2022_presentation pptx (1)](https://user-images.githubusercontent.com/7014404/225579901-e8bdafcf-7fd2-4c02-b08b-86572bceaed9.png)
