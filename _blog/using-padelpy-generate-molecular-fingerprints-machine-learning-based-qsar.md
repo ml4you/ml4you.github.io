@@ -62,6 +62,23 @@ FP_list = ['AtomPairs2DCount',
  'SubstructureCount',
  'Substructure']
 ```
+```
+#Creating a list of present files
+
+FP_list = ['AtomPairs2DCount',
+ 'AtomPairs2D',
+ 'EState',
+ 'CDKextended',
+ 'CDK',
+ 'CDKgraphonly',
+ 'KlekotaRothCount',
+ 'KlekotaRoth',
+ 'MACCS',
+ 'PubChem',
+ 'SubstructureCount',
+ 'Substructure']
+ ```
+Now we will create a data dictionary with all the loaded and available data files so that we get a key-value pair,
 We will now create a data dictionary that includes all the loaded and available data files to obtain a key-value pair.
 ```
 #Creating Data Dictionary
