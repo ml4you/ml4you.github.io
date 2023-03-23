@@ -1,14 +1,21 @@
-<html>
-  <head>
-    {% if page.dark_mode %}
-      <link rel="stylesheet" href="{{ site.dark_css }}">
-    {% else %}
-      <link rel="stylesheet" href="{{ site.light_css }}">
-    {% endif %}
-  </head>
-  <body>
-    {% include dark-mode-toggle.html %}
-    {% block content %}
-    {% endblock %}
-  </body>
-</html>
+<script>
+  function toggleDarkMode() {
+    let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
+    if (darkModeEnabled) {
+      document.documentElement.classList.remove('dark-mode');
+      localStorage.setItem('darkModeEnabled', 'false');
+    } else {
+      document.documentElement.classList.add('dark-mode');
+      localStorage.setItem('darkModeEnabled', 'true');
+    }
+  }
+
+  function initializeDarkMode() {
+    let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
+    if (darkModeEnabled) {
+      document.documentElement.classList.add('dark-mode');
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', initializeDarkMode);
+</script>
