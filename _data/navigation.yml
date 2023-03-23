@@ -23,7 +23,3 @@ main:
 
   - title: "ArtemisiaDB"
     url: /ArtemisiaDB/
-    
-  - title: "Dark Mode"
-    url: "#"
-    icon: "fas fa-moon"
