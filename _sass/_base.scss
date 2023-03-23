@@ -324,3 +324,26 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+html.dark-mode {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+
+  a {
+    color: $dark-link-color;
+    &:hover {
+      color: $dark-link-hover-color;
+    }
+  }
+
+  pre,
+  code {
+    background-color: $dark-code-background-color;
+  }
+
+  hr {
+    border-top-color: $dark-border-color;
+  }
+
+  // Add other dark mode styles as needed
+}
