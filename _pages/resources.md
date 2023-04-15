@@ -151,7 +151,8 @@ author_profile: true
 [NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/)  
 [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/)  
 [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/)   
- 
+[PrankWeb: Ligand Binding Site Prediction](https://prankweb.cz/)   
+
 ## Genomics:
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
