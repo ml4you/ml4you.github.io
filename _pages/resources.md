@@ -167,3 +167,4 @@ author_profile: true
 
 [Practical Fragments](http://practicalfragments.blogspot.com/)  
 [avrilomics](https://avrilomics.blogspot.com/)  
+[Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/)  
