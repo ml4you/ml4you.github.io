@@ -15,8 +15,13 @@ redirect_from:
 * **B.S. in Biology**, Faculty of Sciences of Rabat, Mohammed V University, **2017**
 
 ## Work experience
-* Spring 2022 to Fall 2022: **Visiting Ph.D student** 
-  * Department of Environmental Engineering, University of Patras
+* May 2023 to July 2023: **Visiting Ph.D student** 
+  * Andalusian Center For Developmental Biology, University of Pablo de Olavide, Seville, Spain
+  * Duties included: Minimal inhibitory concentration (MIC) calculation, time-kill curve assays, bacterial adhesion assays
+  * Supervisor: Prof. Younes Smani
+
+* May 2022 to October 2022: **Visiting Ph.D student** 
+  * Department of Environmental Engineering, University of Patras, Agrinio, Greece
   * Duties included: DNA Extraction, 16S ribosomal RNA amplification, amplicon libary preparation for sequencing, NGS data analysis
   * Supervisor: Prof. George Tsiamis
   
