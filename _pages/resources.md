@@ -54,6 +54,7 @@ author_profile: true
 [Collective Molecular Activities of Useful Plants](http://bidd.group/CMAUP/)  
 [Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php)  
 [Cannabis Compound Database](https://cannabisdatabase.ca/)  
+[https://bioinf-applied.charite.de/supernatural_3/](SuperNatural III)   
 [FooDB](https://foodb.ca/)  
 [AfroDB](http://african-compounds.org/about/afrodb/)  
 [Comprehensive Marine Natural Products Database](https://www.cmnpd.org/)  
