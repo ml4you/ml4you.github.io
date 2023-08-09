@@ -153,6 +153,7 @@ author_profile: true
 [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/)  
 [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/)   
 [PrankWeb: Ligand Binding Site Prediction](https://prankweb.cz/)   
+[Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search)   
 
 ## Genomics:
 
