@@ -154,7 +154,7 @@ author_profile: true
 [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/)   
 [PrankWeb: Ligand Binding Site Prediction](https://prankweb.cz/)   
 [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search)   
-
+[AutoDock Vina web server](https://durrantlab.pitt.edu/webina/)   
 ## Genomics:
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
