@@ -28,7 +28,7 @@ redirect_from:
 * Fall 2021: **Scientific content writing intern**
   * [Uresearcher](https://uresearcher.com/)
   * Duties included: Writing blog posts on data-driven drug discovery
-  * Supervisor: Prof. Pankaj Mishra 
+  * Supervisor: Dr. Pankaj Mishra 
 
 * Fall 2021: **Supervising Assistant**
   * Facutly of Sciences and Techniques of Tangier, Abdelmalek Essaadi University
