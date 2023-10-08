@@ -68,6 +68,7 @@ author_profile: true
 [NP-MRD](https://np-mrd.org/natural_products)  
 [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds)   
 [Phytochemicals](https://www.phytochemicals.info/)  
+[DrugSpaceX](https://drugspacex.simm.ac.cn/)   
 
 ## 3D protein structures databases:  
 
