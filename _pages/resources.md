@@ -131,6 +131,10 @@ author_profile: true
 [PepDraw](https://pepdraw.com/)  
 [PepSite](http://pepsite2.russelllab.org/)  
 
+## PROTAC drugs:
+[PROTAC-db](http://cadd.zju.edu.cn/protacdb/)  
+[PROsettaC](https://prosettac.weizmann.ac.il/)  
+
 ## Useful tools for computational chemistry:
 
 [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk)  
