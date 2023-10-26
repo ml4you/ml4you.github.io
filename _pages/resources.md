@@ -97,6 +97,11 @@ author_profile: true
 
 [DynaMut](https://biosig.lab.uq.edu.au/dynamut/)  
 
+## Binding site detection
+
+[ProteinsPlus](https://proteins.plus/)  
+[PrankWeb](https://prankweb.cz/)  
+[CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g)  
 
 ## Pharmacophore screening tools:  
 
@@ -145,7 +150,6 @@ author_profile: true
 
 [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk)  
 [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)  
-[ProteinsPlus](https://proteins.plus/)  
 [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)  
 [MetaPredict](http://metapredict.icoa.fr/)  
 [RPBS Web Portal](https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#welcome)  
