@@ -46,7 +46,7 @@ author_profile: true
 [Sijil UM5](http://ao.um5.ac.ma/xmlui/)  
 
 
-## Natural Products Databases for drug discovery:
+## Natural compounds libraries:
 
 [COCONUT Natural Products](https://coconut.naturalproducts.net/)  
 [LOTUS Natural Products](https://lotus.naturalproducts.net/)  
@@ -68,7 +68,20 @@ author_profile: true
 [NP-MRD](https://np-mrd.org/natural_products)  
 [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds)   
 [Phytochemicals](https://www.phytochemicals.info/)  
-[DrugSpaceX](https://drugspacex.simm.ac.cn/)   
+
+## Chemical bioactivity databases:  
+
+[ChEMBL database](https://www.ebi.ac.uk/chembl/)  
+[BindingDB](https://www.bindingdb.org/)  
+[PubChem database](https://pubchem.ncbi.nlm.nih.gov/)  
+[PDBbind database](http://www.pdbbind.org.cn/index.php)  
+[BRENDA Enzymes database](https://www.brenda-enzymes.org/)  
+[ExCAPE-DB: ExCAPE chemogenomics database](https://solr.ideaconsult.net/search/excape/)  
+[DrugBank](https://go.drugbank.com/)  
+[ZINC](https://zinc.docking.org/)  
+[ChemSpider](http://www.chemspider.com/)  
+[DrugSpaceX](https://drugspacex.simm.ac.cn/)  
+
 
 ## 3D protein structures databases:  
 
@@ -85,15 +98,6 @@ author_profile: true
 [DynaMut](https://biosig.lab.uq.edu.au/dynamut/)  
 
 
-## Chemical bioactivity databases:  
-
-[ChEMBL database](https://www.ebi.ac.uk/chembl/)  
-[BindingDB](https://www.bindingdb.org/)  
-[PubChem database](https://pubchem.ncbi.nlm.nih.gov/)  
-[PDBbind database](http://www.pdbbind.org.cn/index.php)  
-[BRENDA Enzymes database](https://www.brenda-enzymes.org/)  
-[ExCAPE-DB: ExCAPE chemogenomics database](https://solr.ideaconsult.net/search/excape/)  
-
 ## Pharmacophore screening tools:  
 
 [ZINCPharmer](http://zincpharmer.csb.pitt.edu/)  
@@ -104,6 +108,7 @@ author_profile: true
 [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/)  
 [ADMETlab 2.0](https://admetmesh.scbdd.com/)  
 [ProTox-II](https://tox-new.charite.de/protox_II/)  
+[PreADMET](https://preadmet.webservice.bmdrc.org/)  
 
 ## Topology and parameters generators for small molecules using CHARMM force field for GROMACS:
 
@@ -131,7 +136,8 @@ author_profile: true
 [PepDraw](https://pepdraw.com/)  
 [PepSite](http://pepsite2.russelllab.org/)  
 
-## PROTAC drugs:
+## PROTAC database and ternary complex modelling:
+
 [PROTAC-db](http://cadd.zju.edu.cn/protacdb/)  
 [PROsettaC](https://prosettac.weizmann.ac.il/)  
 
