@@ -97,7 +97,7 @@ author_profile: true
 
 [DynaMut](https://biosig.lab.uq.edu.au/dynamut/)  
 
-## Binding site detection
+## Binding site detection:
 
 [ProteinsPlus](https://proteins.plus/)  
 [PrankWeb](https://prankweb.cz/)  
@@ -174,7 +174,7 @@ author_profile: true
 [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/)  
 [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/)   
 [Peptimap](https://peptimap.bu.edu/)   
-
+[MolAiCal](https://molaical.github.io/)  
 ## Genomics:
 
 [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
