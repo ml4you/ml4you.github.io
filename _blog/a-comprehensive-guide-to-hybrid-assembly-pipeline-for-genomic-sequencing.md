@@ -35,24 +35,24 @@ Before diving into the pipeline, ensure you have the necessary tools installed:
 
 **2. Quality Control:**  
 
-    - NanoPlot: [GitHub](https://github.com/wdecoster/NanoPlot)  
-    - FastQC: [GitHub](https://github.com/s-andrews/FastQC)  
-    - Filtlong: [GitHub](https://github.com/rrwick/Filtlong#installation)  
+  - NanoPlot: [GitHub](https://github.com/wdecoster/NanoPlot)  
+  - FastQC: [GitHub](https://github.com/s-andrews/FastQC)  
+  - Filtlong: [GitHub](https://github.com/rrwick/Filtlong#installation)  
 
 **3. Assembly:**  
 
-    - Flye: [GitHub](https://github.com/fenderglass/Flye/blob/flye/docs/INSTALL.md)  
+  - Flye: [GitHub](https://github.com/fenderglass/Flye/blob/flye/docs/INSTALL.md)  
 
 **4. Polishing:**  
 
-    - Medaka: [GitHub](https://github.com/nanoporetech/medaka)  
-    - BWA: [GitHub](https://github.com/lh3/bwa)  
-    - PolyPolish: [Bioconda](https://bioconda.github.io/recipes/polypolish/README.html)  
+  - Medaka: [GitHub](https://github.com/nanoporetech/medaka)  
+  - BWA: [GitHub](https://github.com/lh3/bwa)  
+  - PolyPolish: [Bioconda](https://bioconda.github.io/recipes/polypolish/README.html)  
 
 **5. Assembly Assessment:**  
 
-    - BUSCO: [User Guide](https://busco.ezlab.org/busco_userguide.html#conda-package)  
-    - QUAST: [Website](https://quast.sourceforge.net/install.html)  
+  - BUSCO: [User Guide](https://busco.ezlab.org/busco_userguide.html#conda-package)  
+  - QUAST: [Website](https://quast.sourceforge.net/install.html)  
 
 ## 3. Hybrid Assembly Pipeline
 ### Step 1: Quality Control
@@ -81,6 +81,8 @@ mkdir Polish2
 bwa index Polish1/consensus.fasta
 bwa mem -t 8 -a Polish1/consensus.fasta SR_input_1.fastq > Polish2/alignments_1.sam
 bwa mem -t 8 -a Polish1/consensus.fasta SR_input_2.fastq > Polish2/alignments_2.sam
+```
+```
 polypolish_insert_filter.py --in1 Polish2/alignments_1.sam --in2 Polish2/alignments_2.sam --out1 Polish2/filtered_1.sam --out2 Polish2/filtered_2.sam
 polypolish Polish1/consensus.fasta Polish2/filtered_1.sam Polish2/filtered_2.sam > final_assembly.fasta
 ```
