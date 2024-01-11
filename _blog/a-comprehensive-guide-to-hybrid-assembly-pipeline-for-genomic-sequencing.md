@@ -1,7 +1,7 @@
 ---
 title: 'A Comprehensive Guide to Hybrid Assembly Pipeline for Genomic Sequencing'
 date: 2024-01-11
-permalink: /blog/2024/01/a-comprehensive-guide-to-hybrid-assembly-pipeline-for-genomic-sequencing.md
+permalink: /blog/2024/01/a-comprehensive-guide-to-hybrid-assembly-pipeline-for-genomic-sequencing
 excerpt_separator: <!--more-->
 toc: true
 tags:
