@@ -103,7 +103,7 @@ prokka --outdir prokka_annotation --prefix final_assembly final_assembly.fasta
 ```
 Prokka will generate annotation files in the specified directory, providing detailed information about the genomic features.
 ### RAST
-Visit the RAST website (http://rast.nmpdr.org/) to submit your genome for annotation. RAST offers a user-friendly interface for functional annotation of bacterial and archaeal genomes.
+Visit the [RAST website](http://rast.nmpdr.org/) to submit your genome for annotation. RAST offers a user-friendly interface for functional annotation of bacterial and archaeal genomes.
 
 ## 5. Bottom line
 This hybrid assembly pipeline, coupled with annotation tools like Prokka and RAST, empowers researchers to unravel the intricacies of microbial genomes. The combination of long and short reads, along with rigorous quality control and assessment, ensures a reliable and accurate representation of genomic information.
