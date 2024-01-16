@@ -10,8 +10,11 @@ tags:
   - career
 ---
 
+## 1. Introduction
 ChEMBL database is the largest database, to date, containing curated bioactivity data of more than 2.2 million compounds. It is compiled from more than 84,000 documents, 1.5 million assays and the data spans 14,000 targets, 2,000 cells and 43,000 indications as of February, 2022; ChEMBL version 30.
 <!--more-->
+
+## 2. Data search
 The first step to use this database is to search the ChEMBL database using keywords of a target protein of interest, it is possible to run a search using other keywords related to diseases, compounds or assays. In this tutorial, we are going to search for Acetylcholinesterase as illustrated in Figure 1.
 
 | ![Figure1](https://user-images.githubusercontent.com/7014404/225256089-5c72e4cc-f77c-4ee8-90ea-f548343b5ac4.png) |
@@ -31,7 +34,7 @@ Scroll down to activity charts and notice the pie chart on the left concerning a
 Upon observation of the activity chart, we can quickly determine which activity type is the most reported in the literature, in this case it refers to half-maximal inhibitory concentrations (IC50) which have been reported 8205 times. 
 Once we click on the desired activity type, we can download the entire dataset in CSV or TSV Format containing various informations such as ChEMBL ID for each compound, SMILES, Standard Type and Standard Value referring to the activity type and value respectively.## 
 
-## Data curation
+## 3. Data curation
 Note that it is necessary to remove any unwanted data before proceeding with data curation. In this case, we are only interested in the compound’s IDs, Smiles, Standard Type and Standard Value. It is possible to perform this task with any CSV reader such as Google Sheets or Microsoft Excel. 
 Once we have performed the primary cleaning on our data, we can import it on Google Colab or Jupyter Notebook using the code below:
 
@@ -57,7 +60,7 @@ x
  
 
 
-## Remove duplicate compounds
+### 3.1. Remove duplicate compounds
 
 When dealing with a large dataset of compounds, it is very likely to find a great deal of duplicates with different reported activities due to different conditions of each laboratory. However, it is possible to deal with this issue by averaging all reported activity by calculating their mean values using the code below:
 
@@ -89,7 +92,7 @@ x
 |:--:|
 | <b>Figure 5: Final curated dataset.</b> |
 
-## Data classification
+## 4. Data classification
 
 Once we have curated our data, now it is possible to classify compounds in order to apply it for machine learning classification models. For this reason, we need to define an activity cutoff to define our active and inactive compounds. In the case of enzyme inhibition, the literature indicates that most potent enzyme inhibitors have activities in the nanomolar range. For this reason, we can proceed by setting a threshold of 1000 nM corresponding to 1 μM or lower for defining our active compounds. 
 
@@ -105,7 +108,7 @@ We do the same for inactive compounds by setting a cutoff of 10 000 nM (10 μM) 
 inactive=x.loc[x['mean_value']>10000]
 ```
 
-## Data labelling
+## 5. Data labelling
 
 Now that we have defined our active and inactive compounds, it is necessary to label the data in order to combine the entire dataset. We will simply refer to active compounds as “1” and inactive compounds as “0”.
 Run the code below:
@@ -140,7 +143,7 @@ combined.to_csv("ache_labelled.csv", index=None)
 ```
 
 
-## Conclusion
+## 6. Conclusion
 
 This article’s aim was to demonstrate an alternative way to retrieve bioactivity data from ChEMBL without using code. Furthermore, data curation and data classification was covered in detail as it is a necessary step and can highly impact the performance of machine learning models. If you found this article useful, follow the blog for more tutorials in the future.
 
