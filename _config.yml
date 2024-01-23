@@ -212,6 +212,7 @@ defaults:
       comments: true
       share: true
       related: true
+      date_format: "%B %d, %Y"
   # _pages
   - scope:
       path: ""
@@ -219,6 +220,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      date_format: "%B %d, %Y"
   # _teaching
   - scope:
       path: ""
@@ -228,6 +230,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      date_format: "%B %d, %Y"
   # _publications
   - scope:
       path: ""
@@ -237,6 +240,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      date_format: "%B %d, %Y"
   # _talks
   - scope:
       path: ""
@@ -245,6 +249,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      date_format: "%B %d, %Y"
 
 # Sass/SCSS
 sass:
