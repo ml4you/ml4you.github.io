@@ -100,6 +100,8 @@ Next, we employ the trained Random Forest Classifier ('rf') to make predictions 
 
 ## 6. Evaluating the model's performance
 
+The trained Random Forest Classifier ('rf') is then employed to make predictions on the testing data ('X_test'). The predicted values are stored in the variable 'y_pred,' representing the model's anticipated outcomes for the corresponding features in the testing set. This step allows us to assess the model's performance by comparing its predictions against the actual labels in the testing data.
+
 ```
 y_pred = rf.predict(X_test)
 ```
