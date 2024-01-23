@@ -1,6 +1,6 @@
 ---
 title: 'Interpretable Machine Learning model as a key to understanding BBB permeability'
-date: 2024-23-01
+date: 2024-01-23
 permalink: /blog/2024/01/interpretable-machine-learning-model-as-a-key-to-understanding-bbb-permeability
 excerpt_separator: <!--more-->
 toc: true
