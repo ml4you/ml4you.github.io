@@ -2,10 +2,18 @@
 <html>
 <head>
   <title>Dark Mode Toggle</title>
+  <style>
+    .toggle-button {
+      border: none;
+      cursor: pointer;
+      background: none;
+      font-size: 2em;
+    }
+  </style>
 </head>
 <body>
   <!-- Add this button -->
-  <button class="nav-link" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+  <button id="toggle-button" class="toggle-button" onclick="toggleDarkMode()">🌞</button>
 
   <script>
     function toggleDarkMode() {
@@ -13,9 +21,11 @@
       if (darkModeEnabled) {
         document.documentElement.classList.remove('dark-mode');
         localStorage.setItem('darkModeEnabled', 'false');
+        document.getElementById('toggle-button').textContent = '🌞'; // Sun for light mode
       } else {
         document.documentElement.classList.add('dark-mode');
         localStorage.setItem('darkModeEnabled', 'true');
+        document.getElementById('toggle-button').textContent = '🌜'; // Moon for dark mode
       }
     }
 
@@ -23,6 +33,7 @@
       let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
       if (darkModeEnabled) {
         document.documentElement.classList.add('dark-mode');
+        document.getElementById('toggle-button').textContent = '🌜'; // Moon for dark mode
       }
     }
 
