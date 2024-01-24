@@ -1,21 +1,32 @@
-<script>
-  function toggleDarkMode() {
-    let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
-    if (darkModeEnabled) {
-      document.documentElement.classList.remove('dark-mode');
-      localStorage.setItem('darkModeEnabled', 'false');
-    } else {
-      document.documentElement.classList.add('dark-mode');
-      localStorage.setItem('darkModeEnabled', 'true');
-    }
-  }
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dark Mode Toggle</title>
+</head>
+<body>
+  <!-- Add this button -->
+  <button class="nav-link" onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
-  function initializeDarkMode() {
-    let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
-    if (darkModeEnabled) {
-      document.documentElement.classList.add('dark-mode');
+  <script>
+    function toggleDarkMode() {
+      let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
+      if (darkModeEnabled) {
+        document.documentElement.classList.remove('dark-mode');
+        localStorage.setItem('darkModeEnabled', 'false');
+      } else {
+        document.documentElement.classList.add('dark-mode');
+        localStorage.setItem('darkModeEnabled', 'true');
+      }
     }
-  }
 
-  document.addEventListener('DOMContentLoaded', initializeDarkMode);
-</script>
+    function initializeDarkMode() {
+      let darkModeEnabled = localStorage.getItem('darkModeEnabled') === 'true';
+      if (darkModeEnabled) {
+        document.documentElement.classList.add('dark-mode');
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', initializeDarkMode);
+  </script>
+</body>
+</html>
