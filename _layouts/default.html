@@ -12,8 +12,6 @@ layout: compress
     {% include head/custom.html %}
     {% include google-analytics.html %}
     <link rel="stylesheet" href="{{ site.light_css }}">
-     <link rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}">
-  <script src="{{ '/assets/js/dark-mode-toggle.js' | relative_url }}"></script>
   </head>
 
   <body>
@@ -31,9 +29,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    
-    <body{% if page.dark_mode == true %} class="dark-mode"{% endif %}>
-
 
   </body>
 </html>
